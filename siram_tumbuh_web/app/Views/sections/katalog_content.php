@@ -1,0 +1,4 @@
+<div id="katalog-content" class="hidden p-8 fade-in flex-col">
+                <div class="flex justify-between items-center mb-8"><h1 class="text-2xl font-bold">Katalog Harga</h1><button id="btn-tambah-katalog" class="bg-green-600 text-white px-6 py-2 rounded-xl font-bold">Tambah Item</button></div>
+                <div class="bg-white rounded-3xl border overflow-hidden border-gray-100"><table class="w-full text-left text-sm"><thead class="bg-gray-50 border-b text-xs uppercase"><tr><th class="p-4">Nama Item</th><th>Satuan</th><th>Harga</th><th class="p-4 text-center">Hapus</th></tr></thead><tbody id="katalog-table-body"></tbody></table></div>
+            </div>
